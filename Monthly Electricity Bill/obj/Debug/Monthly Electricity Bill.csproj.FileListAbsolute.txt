@@ -1,0 +1,13 @@
+C:\Users\himal\source\repos\Monthly Electricity Bill\Monthly Electricity Bill\bin\Debug\Monthly Electricity Bill.exe.config
+C:\Users\himal\source\repos\Monthly Electricity Bill\Monthly Electricity Bill\bin\Debug\Monthly Electricity Bill.exe
+C:\Users\himal\source\repos\Monthly Electricity Bill\Monthly Electricity Bill\bin\Debug\Monthly Electricity Bill.pdb
+C:\Users\himal\source\repos\Monthly Electricity Bill\Monthly Electricity Bill\obj\Debug\Monthly Electricity Bill.csproj.AssemblyReference.cache
+C:\Users\himal\source\repos\Monthly Electricity Bill\Monthly Electricity Bill\obj\Debug\Monthly Electricity Bill.csproj.SuggestedBindingRedirects.cache
+C:\Users\himal\source\repos\Monthly Electricity Bill\Monthly Electricity Bill\obj\Debug\Monthly_Electricity_Bill.Dashboard.resources
+C:\Users\himal\source\repos\Monthly Electricity Bill\Monthly Electricity Bill\obj\Debug\Monthly_Electricity_Bill.Properties.Resources.resources
+C:\Users\himal\source\repos\Monthly Electricity Bill\Monthly Electricity Bill\obj\Debug\Monthly Electricity Bill.csproj.GenerateResource.cache
+C:\Users\himal\source\repos\Monthly Electricity Bill\Monthly Electricity Bill\obj\Debug\Monthly Electricity Bill.csproj.CoreCompileInputs.cache
+C:\Users\himal\source\repos\Monthly Electricity Bill\Monthly Electricity Bill\obj\Debug\Monthly Electricity Bill.exe
+C:\Users\himal\source\repos\Monthly Electricity Bill\Monthly Electricity Bill\obj\Debug\Monthly Electricity Bill.pdb
+C:\Users\himal\source\repos\Monthly Electricity Bill\Monthly Electricity Bill\obj\Debug\Monthly_Electricity_Bill.Form1_home_category.resources
+C:\Users\himal\source\repos\Monthly Electricity Bill\Monthly Electricity Bill\obj\Debug\Monthly_Electricity_Bill.Form_hotel.resources
